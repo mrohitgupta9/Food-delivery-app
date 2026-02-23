@@ -27,7 +27,7 @@ Smooth scroll animations & interactive UI elements
 
 🔗 Live: https://mrohitgupta9.github.io/Food-delivery-app/
 
-📁 Repo: https://mrohitgupta9.github.io/my-portfolio/
+📁 Repo: https://github.com/mrohitgupta9
 
 🛠️ Tech Stack
 
@@ -44,4 +44,5 @@ GitHub: https://github.com/mrohitgupta9
 LinkedIn: https://www.linkedin.com/in/mrohitgupta9
 
 ⭐ If you like this project, consider giving it a star!
+
 
